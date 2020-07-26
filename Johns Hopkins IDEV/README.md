@@ -1,4 +1,4 @@
-# International Development
+# Johns Hopkins IDEV
 
 - This folder contains several projects that I did during my graduate studies at Johns Hopkins University, School of Advanced International Studies (SAIS).
 
